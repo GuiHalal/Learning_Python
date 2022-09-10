@@ -191,3 +191,12 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 - Filtrar os dados de um dataframe baseado na Series booleana
 - Exportar e gravar os dados do dataframe (método `to_csv()`)
 - Ordenar os dados de um dataframe (métodos `sort_values()` e `sort_index()`)
+
+#### 5 - Frequências de imóveis
+
+- Formas de seleção e frequências
+- Seleção com a condição OR (`|`)
+- Seleção com a condição AND (`&`)
+- Como criar um `Index` com `split()`
+- Seleção por linha e coluna em um dataframe:
+  - Utilizando os índices numéricos e os rótulos das linhas
