@@ -184,3 +184,10 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 - Como redefinir o index de um dataframe e series (atributo `index`)
 - Como concatenar dataframes (lembrando do `axis`)
 - Como criar novos dataframes baseados em estruturas de dados Python (lista, dicionários ou tuples)
+
+#### 4 - Filtrando dados
+
+- Criar uma Series booleana usando o método `isin(..)` a partir do dataframe
+- Filtrar os dados de um dataframe baseado na Series booleana
+- Exportar e gravar os dados do dataframe (método `to_csv()`)
+- Ordenar os dados de um dataframe (métodos `sort_values()` e `sort_index()`)
