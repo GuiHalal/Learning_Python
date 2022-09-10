@@ -175,3 +175,12 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 - Criar diferentes tipos de células dentro do Jupyter
 - Acessar a documentação no Jupyter
 - Como reexecutar todas as células no Jupyter
+
+#### 3 - Series e Index
+
+- Como selecionar uma variável do dataframe (por exemplo, `dados['Tipo']` ou `dados.Tipo`)
+- Que um dataframe é composto de vários `Series`
+- Como eliminar duplicatas (pelo método `drop_duplicates()`)
+- Como redefinir o index de um dataframe e series (atributo `index`)
+- Como concatenar dataframes (lembrando do `axis`)
+- Como criar novos dataframes baseados em estruturas de dados Python (lista, dicionários ou tuples)
