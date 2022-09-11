@@ -2,9 +2,13 @@
 
 Repositório para guardar os exercícios que fiz durante os cursos de Python da Alura.
 
-## Python: começando com a linguagem
+## Sumário
 
-### O que aprendemos?
+- [Python: começando com a linguagem](#python-come%C3%A7ando-com-a-linguagem)
+- [Curso de Python para Data Science: linguagem e Numpy](#curso-de-python-para-data-science-linguagem-e-numpy)
+- [ Python Pandas: tratando e analisando dados](#python-pandas-tratando-e-analisando-dados)
+
+## Python: começando com a linguagem
 
 #### 1 - Instalação do Python 3
 
@@ -101,8 +105,6 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 
 ## Curso de Python para Data Science: linguagem e Numpy
 
-### O que aprendemos?
-
 #### 1 - Ambiente do cientista de dados
 
 - Os ambientes de desenvolvimento para a linguagem Python
@@ -148,8 +150,6 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 - A geração de estatísticas descritivas e sumarizações com arrays
 
 ## Python Pandas: tratando e analisando dados
-
-### O que aprendemos?
 
 #### 1 - Conhecendo Jupyter
 
