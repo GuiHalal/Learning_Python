@@ -217,5 +217,13 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 #### 7 - Novas variáveis
 
 - Como criar variáveis
-- Como excluir variáveis utilizando` del`,` pop()` e `drop()`
+- Como excluir variáveis utilizando `del`, `pop()` e `drop()`
 - Contadores, através do `value_counts()`
+
+#### 8 - Estatística Descritiva
+
+- Como criar agrupamentos com o `groupby()`
+- Estatísticas descritivas com o` describe()` e o `aggregate()`
+- Como renomear as colunas com o `rename()`
+- Como fazer gráficos com o pacote **Matplotlib**
+- Como criar faixas de valor com o `cut()`
