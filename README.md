@@ -5,7 +5,10 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 ## Sumário
 
 - [Python: começando com a linguagem](#python-come%C3%A7ando-com-a-linguagem)
-- [Curso de Python para Data Science: linguagem e Numpy](#curso-de-python-para-data-science-linguagem-e-numpy)
+- [Curso de Python para Data Science: linguagem e Numpy](#curso-de-python-para-data-science-linguagem-e-numpy-)
+
+
+
 - [ Python Pandas: tratando e analisando dados](#python-pandas-tratando-e-analisando-dados)
 
 ## Python: começando com a linguagem
@@ -103,7 +106,7 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 - Interpretado vs Compilado
 - Python é interpretado ou compilado?
 
-## Curso de Python para Data Science: linguagem e Numpy
+## Curso de Python para Data Science: linguagem e Numpy [↥](#learning_python)
 
 #### 1 - Ambiente do cientista de dados
 
