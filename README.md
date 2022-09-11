@@ -6,9 +6,6 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 
 - [Python: começando com a linguagem](#python-come%C3%A7ando-com-a-linguagem)
 - [Curso de Python para Data Science: linguagem e Numpy](#curso-de-python-para-data-science-linguagem-e-numpy-)
-
-
-
 - [ Python Pandas: tratando e analisando dados](#python-pandas-tratando-e-analisando-dados)
 
 ## Python: começando com a linguagem
@@ -230,3 +227,8 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 - Como renomear as colunas com o `rename()`
 - Como fazer gráficos com o pacote **Matplotlib**
 - Como criar faixas de valor com o `cut()`
+
+#### 9 - Removendo Outliers
+
+- Como identificar e remover outliers com o box plot
+- Como fazer um gráfico de pizza com a aplicação do método `pie()`, da biblioteca `matplotlib`
