@@ -24,7 +24,7 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
    4. [Condicionais e laços](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#4---condicionais-e-la%C3%A7os)
    5. [Conhecendo o NumPy](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#5---conhecendo-o-numpy)
 
-3. ### [ Python Pandas: tratando e analisando dados]([#python-pandas-tratando-e-analisando-dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#python-pandas-tratando-e-analisando-dados))
+3. ### [Python Pandas: tratando e analisando dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#python-pandas-tratando-e-analisando-dados)
   
    1. [Conhecendo Jupyter](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#1---conhecendo-jupyter)
    2. [Importando dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#2---importando-dados)
