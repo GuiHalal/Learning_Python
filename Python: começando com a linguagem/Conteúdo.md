@@ -1,7 +1,7 @@
 
 ## Python: começando com a linguagem
 
-#### 1 - Instalação do Python 3
+## 1 - Instalação do Python 3
 
 - Apresentação
 - Instalando o Python no Windows
@@ -14,7 +14,7 @@
 - Tipagem do Python
 - Tipagem de variáveis
 
-#### 2 - Lidando com a entrada do usuário
+## 2 - Lidando com a entrada do usuário
 
 - Instalando e conhecendo o PyCharm
 - Mão na massa: Primeiro projeto com PyCharm
@@ -23,7 +23,7 @@
 - Python 2 vs Python 3
 - Para saber mais: JavaScript vs Python
 
-#### 3 - Testando valores
+## 3 - Testando valores
 
 - A condição elif
 - Faixa Etária
@@ -33,7 +33,7 @@
 - Qual é o tipo?
 - Para saber mais: if sem ou com parênteses?
 
-#### 4 - A sequência do jogo
+## 4 - A sequência do jogo
 
 - O laço com while
 - Resultado do programa
@@ -42,7 +42,7 @@
 - Testando formatação
 - Mão na massa: Usando while
   
-#### 5 - Iterando de maneira diferente
+## 5 - Iterando de maneira diferente
 
 - O laço com for
 - De while para for
@@ -56,7 +56,7 @@
 - O resultado da interpolação
 - Interpolação - Python 2 vs Python 3
 
-#### 6 - Gerando números aleatórios
+## 6 - Gerando números aleatórios
 
 - Gerando e arredondando um número aleatório
 - Importar módulo
@@ -67,7 +67,7 @@
 - Mão na massa: Número secreto aleatório
 - Para saber mais: Pseudo-Random
 
-#### 7 - Nível e Pontuação
+## 7 - Nível e Pontuação
 
 - Adicionando níveis ao jogo
 - Definindo uma pontuação para o usuário
@@ -77,7 +77,7 @@
 - Para saber mais: arredondar no Python 2 e no Python 3
 - Para saber mais: Divisão de float e integer
 
-#### 8 -Organizando ainda melhor o nosso código
+## 8 -Organizando ainda melhor o nosso código
 
 - Importando arquivos dentro de outros
 - Criando funções para os nossos jogos
@@ -88,7 +88,7 @@
 - Um módulo pode se chamar automaticamente?
 - Mão na massa: Modularizando o jogo
 
-#### 9 - Comparando Python com C
+## 9 - Comparando Python com C
 
 - Python vs C
 - Interpretado vs Compilado
