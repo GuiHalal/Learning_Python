@@ -1,5 +1,4 @@
-
-## Python: começando com a linguagem
+# Python: começando com a linguagem
 
 ## 1 - Instalação do Python 3
 

@@ -1,4 +1,4 @@
-## Curso de Python para Data Science: linguagem e Numpy
+# Curso de Python para Data Science: linguagem e Numpy
 
 ## 1 - Ambiente do cientista de dados
 
