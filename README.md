@@ -7,16 +7,17 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
 - [Curso de Python para Data Science: linguagem e Numpy](#curso-de-python-para-data-science-linguagem-e-numpy-)
 - [ Python Pandas: tratando e analisando dados](#python-pandas-tratando-e-analisando-dados)
 
-1. ## [Python: começando com a linguagem](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#python-come%C3%A7ando-com-a-linguagem)
-   1.  [Instalação do Python 3 ](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md)
-   2.  [Lidando com a entrada do usuário](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#2---lidando-com-a-entrada-do-usu%C3%A1rio)
-   3.  [Testando valores](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#3---testando-valores)
-   4.  [A sequência do jogo](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#4---a-sequ%C3%AAncia-do-jogo)
-   5.  [Iterando de maneira diferente](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#5---iterando-de-maneira-diferente)
-   6.  [Gerando números aleatórios](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#6---gerando-n%C3%BAmeros-aleat%C3%B3rios)
-   7.  [Nível e Pontuação](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#7---n%C3%ADvel-e-pontua%C3%A7%C3%A3o)
-   8.  [Organizando ainda melhor o nosso código](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#8--organizando-ainda-melhor-o-nosso-c%C3%B3digo)
-   9.  [Comparando `Python` com `C`](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/jogos/Conte%C3%BAdo.md#9---comparando-python-com-c)
+1. ## [Python: começando com a linguagem](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#python-come%C3%A7ando-com-a-linguagem)
+   1.  [Instalação do Python 3 ](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md)
+   2.  [Lidando com a entrada do usuário](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#2---lidando-com-a-entrada-do-usu%C3%A1rio)
+   3.  [Testando valores](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#3---testando-valores)
+   4.  [A sequência do jogo](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#4---a-sequ%C3%AAncia-do-jogo)
+   5.  [Iterando de maneira diferente](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#5---iterando-de-maneira-diferente)
+   6.  [Gerando números aleatórios](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#6---gerando-n%C3%BAmeros-aleat%C3%B3rios)
+   7.  [Nível e Pontuação](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#7---n%C3%ADvel-e-pontua%C3%A7%C3%A3o)
+   8.  [Organizando ainda melhor o nosso código](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#8--organizando-ainda-melhor-o-nosso-c%C3%B3digo)
+   9.  [Comparando `Python` com `C`](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#9---comparando-python-com-c)
+
 ## Curso de Python para Data Science: linguagem e Numpy
 
 #### 1 - Ambiente do cientista de dados
