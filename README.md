@@ -18,13 +18,12 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
    8. [Organizando ainda melhor o nosso código](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#8--organizando-ainda-melhor-o-nosso-c%C3%B3digo)
    9. [Comparando `Python` com `C`](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#9---comparando-python-com-c)
 
-2. ### [Curso de Python para Data Science: linguagem e Numpy]
-
- 1 - Ambiente do cientista de dados
- 2 - Características do Python
- 3 - Trabalhando com listas
- 4 - Condicionais e laços
- 5 - Conhecendo o NumPy
+2. ### [Curso de Python para Data Science: linguagem e Numpy](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#curso-de-python-para-data-science-linguagem-e-numpy)
+   1. [Ambiente do cientista de dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#1---ambiente-do-cientista-de-dados)
+   2. [Características do Python](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#2---caracter%C3%ADsticas-do-python)
+   3. [Trabalhando com listas](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#3---trabalhando-com-listas)
+   4. [Condicionais e laços](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#4---condicionais-e-la%C3%A7os)
+   5. [Conhecendo o NumPy](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#5---conhecendo-o-numpy)
 
 ## Python Pandas: tratando e analisando dados
 
