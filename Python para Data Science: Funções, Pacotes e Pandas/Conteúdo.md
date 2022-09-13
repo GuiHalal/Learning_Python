@@ -18,6 +18,17 @@
 
 ## 3 - Mapeando dados: Dicionários
 
+- Estruturas de dados, que representam um tipo de mapeamento, conhecidas como dicionário, na linguagem Python
+- Formas de criação de dicionários em Python
+- Operações básicas com dicionários (pertinência, acesso, atribuição, etc)
+- A utilizar os métodos mais importantes de dicionários (`update()`, `pop()`, `clear()`, etc)
+- Técnicas de iteração por dicionários
+
 ## 4 - Organização do código: Funções e pacotes
+
+- A utilizar built-in functions no Python
+- A consultar a documentação do Python
+- Como definir funções com e sem o uso de argumentos
+- Como definir funções que retornam valores
 
 ## 5 - A biblioteca dos cientistas: Pandas
