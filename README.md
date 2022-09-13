@@ -17,10 +17,21 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
    9. [Comparando `Python` com `C`](https://github.com/GuiHalal/Learning_Python/blob/main/Python:%20come%C3%A7ando%20com%20a%20linguagem/Conte%C3%BAdo.md#9---comparando-python-com-c)
 
 2. ### [Curso de Python para Data Science: linguagem e Numpy](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#curso-de-python-para-data-science-linguagem-e-numpy)
+  
    1. [Ambiente do cientista de dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#1---ambiente-do-cientista-de-dados)
    2. [Características do Python](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#2---caracter%C3%ADsticas-do-python)
    3. [Trabalhando com listas](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#3---trabalhando-com-listas)
    4. [Condicionais e laços](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#4---condicionais-e-la%C3%A7os)
    5. [Conhecendo o NumPy](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#5---conhecendo-o-numpy)
 
-3. ### [ Python Pandas: tratando e analisando dados](#python-pandas-tratando-e-analisando-dados)
+3. ### [ Python Pandas: tratando e analisando dados]([#python-pandas-tratando-e-analisando-dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#python-pandas-tratando-e-analisando-dados))
+  
+   1. [Conhecendo Jupyter](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#1---conhecendo-jupyter)
+   2. [Importando dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#2---importando-dados)
+   3. [Series e Index](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#3---series-e-index)
+   4. [Filtrando dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#4---filtrando-dados)
+   5. [Frequências de imóveis](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#5---frequ%C3%AAncias-de-im%C3%B3veis)
+   6. [Tratamento de dados faltantes](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#6---tratamento-de-dados-faltantes)
+   7. [Novas variáveis](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#7---novas-vari%C3%A1veis)
+   8. [Estatística Descritiva](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#8---estat%C3%ADstica-descritiva)
+   9. [Removendo Outliers](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#9---removendo-outliers)
