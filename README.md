@@ -24,7 +24,14 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
    4. [Condicionais e laços](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#4---condicionais-e-la%C3%A7os)
    5. [Conhecendo o NumPy](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20linguagem%20e%20Numpy/Conte%C3%BAdo.md#5---conhecendo-o-numpy)
 
-3. ### [Python Pandas: tratando e analisando dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#python-pandas-tratando-e-analisando-dados)
+3. ### [Python para Data Science: Funções, Pacotes e Pandas](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20Fun%C3%A7%C3%B5es%2C%20Pacotes%20e%20Pandas/Conte%C3%BAdo.md#python-para-data-science-fun%C3%A7%C3%B5es-pacotes-e-pandas)
+   1. [Apresentação do curso](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20Fun%C3%A7%C3%B5es%2C%20Pacotes%20e%20Pandas/Conte%C3%BAdo.md#1---apresenta%C3%A7%C3%A3o-do-curso)
+   2. [Listas estáticas: Tuplas](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20Fun%C3%A7%C3%B5es%2C%20Pacotes%20e%20Pandas/Conte%C3%BAdo.md#2---listas-est%C3%A1ticas-tuplas)
+   3. [Mapeando dados: Dicionários](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20Fun%C3%A7%C3%B5es%2C%20Pacotes%20e%20Pandas/Conte%C3%BAdo.md#3---mapeando-dados-dicion%C3%A1rios)
+   4. [Organização do código: Funções e pacotes](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20Fun%C3%A7%C3%B5es%2C%20Pacotes%20e%20Pandas/Conte%C3%BAdo.md#4---organiza%C3%A7%C3%A3o-do-c%C3%B3digo-fun%C3%A7%C3%B5es-e-pacotes)
+   5. [A biblioteca dos cientistas: Pandas](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20para%20Data%20Science:%20Fun%C3%A7%C3%B5es%2C%20Pacotes%20e%20Pandas/Conte%C3%BAdo.md#5---a-biblioteca-dos-cientistas-pandas)
+
+4. ### [Python Pandas: tratando e analisando dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#python-pandas-tratando-e-analisando-dados)
   
    1. [Conhecendo Jupyter](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#1---conhecendo-jupyter)
    2. [Importando dados](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#2---importando-dados)
@@ -35,3 +42,11 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
    7. [Novas variáveis](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#7---novas-vari%C3%A1veis)
    8. [Estatística Descritiva](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#8---estat%C3%ADstica-descritiva)
    9. [Removendo Outliers](https://github.com/GuiHalal/Learning_Python/blob/main/Python%20Pandas:%20tratando%20e%20analisando%20dados/Conte%C3%BAdo.md#9---removendo-outliers)
+
+5. ### [Machine Learning: classificação com SKLearn](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#machine-learning-classifica%C3%A7%C3%A3o-com-sklearn)
+
+   1. [Introdução à classificação](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#1---introdu%C3%A7%C3%A3o-%C3%A0-classifica%C3%A7%C3%A3o)
+   2. [Testes replicáveis, estratificação e lendo dados da internet](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#2---testes-replic%C3%A1veis-estratifica%C3%A7%C3%A3o-e-lendo-dados-da-internet)
+   3. [Um projeto de baixa dimensionalidade e o baseline](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#3---um-projeto-de-baixa-dimensionalidade-e-o-baseline)
+   4. [Support Vector Machine e a não linearidade](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#4---support-vector-machine-e-a-n%C3%A3o-linearidade)
+   5. [Dummy classifiers e árvore de decisão](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#5---dummy-classifiers-e-%C3%A1rvore-de-decis%C3%A3o)
