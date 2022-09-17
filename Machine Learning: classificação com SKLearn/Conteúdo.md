@@ -15,7 +15,13 @@
 
 ## 2 - Testes replicáveis, estratificação e lendo dados da internet
 
-- 
+- Abrir arquivo CSV;
+- Imprimir as primeiras linhas com a função head;
+- Renomear as colunas;
+- Utilizar a função **shape** para ver a quantidade de elementos;
+- Separar dados para treino e teste;
+- Definir a ordem para os números aleatórios;
+- Utilizar a função **value_counts**.
 
 ## 3 - Um projeto de baixa dimensionalidade e o baseline
 
