@@ -36,7 +36,9 @@
 
 ## 4 - Support Vector Machine e a não linearidade
 
-- 
+- Utilizar o módulo **Support Vector Machine**
+- Gerar valores randômicos com o módulo **SVC**
+- Utilizar o módulo **Standard Scale**.
 
 ## 5 - Dummy classifiers e árvore de decisão
 
