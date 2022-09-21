@@ -16,6 +16,11 @@
 
 ## 3 - Avaliando a Árvore de Decisão
 
+- Avaliar a classificação de uma árvore de decisão
+- Principais métricas para avaliar a classificação
+- Utilizar o scikit-learn para calcular as métricas de validação
+- Analisar e modificar as propriedades da árvore de decisão
+
 ## 4 - Aprendendo Ensemble Learning com Bagging
 
 ## 5 - Aprendendo Ensemble Learning com Boosting
