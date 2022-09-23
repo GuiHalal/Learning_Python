@@ -23,4 +23,17 @@
 
 ## 4 - Aprendendo Ensemble Learning com Bagging
 
+- O que são modelos ensemble
+- Como funcionam as árvores ensemble
+- Características da técnica bagging
+- Classificar transações com o algoritmo Random Forest
+- Utilizar o scikit-learn para executar o Random Forest
+- Utilizar o scikit-learn para avaliar a classificação do Random Forest
+
 ## 5 - Aprendendo Ensemble Learning com Boosting
+
+- Como funciona a técnica boosting
+- Classificar transações com o algoritmo AdaBoost
+- Utilizar o scikit-learn para executar o AdaBoost
+- Utilizar o scikit-learn para avaliar o AdaBoost
+- Comparar classificações de algoritmos diferentes
