@@ -50,3 +50,19 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
    3. [Um projeto de baixa dimensionalidade e o baseline](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#3---um-projeto-de-baixa-dimensionalidade-e-o-baseline)
    4. [Support Vector Machine e a não linearidade](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#4---support-vector-machine-e-a-n%C3%A3o-linearidade)
    5. [Dummy classifiers e árvore de decisão](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20classifica%C3%A7%C3%A3o%20com%20SKLearn/Conte%C3%BAdo.md#5---dummy-classifiers-e-%C3%A1rvore-de-decis%C3%A3o)
+
+6. ### [Árvores de Decisão: aprofundando em modelos de Machine Learning](https://github.com/GuiHalal/Learning_Python/blob/main/%C3%81rvores%20de%20Decis%C3%A3o:%20aprofundando%20em%20modelos%20de%20Machine%20Learning/Conte%C3%BAdo.md#%C3%A1rvores-de-decis%C3%A3o-aprofundando-em-modelos-de-machine-learning)
+   
+   1. [Entendendo as Árvores de Decisão](https://github.com/GuiHalal/Learning_Python/blob/main/%C3%81rvores%20de%20Decis%C3%A3o:%20aprofundando%20em%20modelos%20de%20Machine%20Learning/Conte%C3%BAdo.md#1---entendendo-as-%C3%A1rvores-de-decis%C3%A3o)
+   2. [Criando uma Árvore de Decisão](https://github.com/GuiHalal/Learning_Python/blob/main/%C3%81rvores%20de%20Decis%C3%A3o:%20aprofundando%20em%20modelos%20de%20Machine%20Learning/Conte%C3%BAdo.md#2---criando-uma-%C3%A1rvore-de-decis%C3%A3o)
+   3. [Avaliando a Árvore de Decisão](https://github.com/GuiHalal/Learning_Python/blob/main/%C3%81rvores%20de%20Decis%C3%A3o:%20aprofundando%20em%20modelos%20de%20Machine%20Learning/Conte%C3%BAdo.md#3---avaliando-a-%C3%A1rvore-de-decis%C3%A3o)
+   4. [Aprendendo Ensemble Learning com Bagging](https://github.com/GuiHalal/Learning_Python/blob/main/%C3%81rvores%20de%20Decis%C3%A3o:%20aprofundando%20em%20modelos%20de%20Machine%20Learning/Conte%C3%BAdo.md#4---aprendendo-ensemble-learning-com-bagging)
+   5. [Aprendendo Ensemble Learning com Boosting](https://github.com/GuiHalal/Learning_Python/blob/main/%C3%81rvores%20de%20Decis%C3%A3o:%20aprofundando%20em%20modelos%20de%20Machine%20Learning/Conte%C3%BAdo.md#5---aprendendo-ensemble-learning-com-boosting)
+
+7. ### [Machine Learning: Credit Scoring](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#machine-learning-credit-scoring)
+   
+   1. [Cadeia de crédito e riscos](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#1---cadeia-de-cr%C3%A9dito-e-riscos)
+   2. [Regressão Logística](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#2---regress%C3%A3o-log%C3%ADstica)
+   3. [Métricas estatísticas](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#3---m%C3%A9tricas-estat%C3%ADsticas)
+   4. [Análise e visualização de dados](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#4---an%C3%A1lise-e-visualiza%C3%A7%C3%A3o-de-dados)
+   5. [Comparação e escolha do modelo](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#5---compara%C3%A7%C3%A3o-e-escolha-do-modelo)
