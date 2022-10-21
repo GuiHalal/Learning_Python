@@ -1,63 +1,92 @@
 import random
+
 def jogar():
+    imprime_mensagem_abertura()
+
+    palavra_secreta = carrega_palavra_secreta()
+
+    letras_acertadas = inicializa_letras_acertadas(palavra_secreta)
+
+    print(letras_acertadas)
+
+    tentativas = 6
+    enforcou = False
+    acertou = False
+    erros = 0
+
+    while not enforcou and not acertou:
+        chute = pede_chute()
+
+        if (chute in palavra_secreta):
+            marca_chute_correto(chute, letras_acertadas, palavra_secreta)
+
+        else:
+            erros += 1
+            errou(erros)
+
+        enforcou = erros == tentativas
+        acertou = "_" not in letras_acertadas
+        print("\n", letras_acertadas, "\n")
+
+    if (acertou):
+        imprime_mensagem_vencedor()
+    else:
+        imprime_mensagem_perdedor(palavra_secreta)
+
+
+
+def imprime_mensagem_abertura():
     print("*********************************")
     print("Bem vindo ao jogo da Forca!")
     print("*********************************")
 
-    #with open("palavras.txt") as arquivo:
-     #   for linha in arquivo:
-      #      print(linha)
-    # REFATORAR PARA FICAR NO PADRAÃO ACIMA
 
-    arquivo = open("palavras.txt", "r")
+def carrega_palavra_secreta():
     palavras = []
-
-    for linha in arquivo:
-        linha = linha.strip()
-        palavras.append(linha)
-
-    arquivo.close()
-
-
+    with open("palavras.txt") as arquivo:
+        for linha in arquivo:
+            linha = linha.strip()
+            palavras.append(linha)
     palavra_secreta = palavras[random.randrange(0, len(palavras))].upper()
+    return palavra_secreta
 
-    #print(palavras)
 
-
+def inicializa_letras_acertadas(palavra_secreta):
     # List Comprehensions
-    letras_acertadas = ["_" for letra in palavra_secreta]
-    # metodo que eu bolei:
-    # letras_acertadas = list("_" * len(palavra_secreta))
-    print(letras_acertadas)
-    tentativas = 6
-    enforcou = False
-    acertou = False
+    return ["_" for letra in palavra_secreta]
 
-    erros = 0
-    while not enforcou and not acertou:
-        chute = input("Qual a letra? ")
-        chute = chute.strip().upper()
-        if(chute in palavra_secreta):
-            index=0
-            for letra in palavra_secreta:
-                if(chute.upper() == letra.upper()):
-                    letras_acertadas[index] = letra
-                    #print('Encontrei a letra "{}" na posição {}'.format(chute, index))
-                index = index+1
-        else:
-            erros += 1
-            if((6 - erros)>1):
-                print("Ops, você errou! Faltam {} tentativas.".format(6 - erros))
-            elif((6 - erros)==1):
-                print("Ops, você errou! ULTIMA TENTATIVA!")
-        enforcou = erros == tentativas
-        acertou = "_" not in letras_acertadas
-        print("\n",  letras_acertadas, "\n")
 
-    print("Fim do jogo")
-    if(acertou):
-        print("Vitória!")
-    else:
-        print("Que pena! Você foi enforcado!")
+def pede_chute():
+    chute = input("Qual a letra? ")
+    chute = chute.strip().upper()
+    return chute
+
+
+def marca_chute_correto(chute, letras_acertadas, palavra_secreta):
+    index = 0
+    for letra in palavra_secreta:
+        if (chute.upper() == letra.upper()):
+            letras_acertadas[index] = letra
+        index = index + 1
+
+def errou(erros):
+    if ((6 - erros) > 1):
+        print("Ops, você errou! Faltam {} tentativas.".format(6 - erros))
+    elif ((6 - erros) == 1):
+        print("Ops, você errou! ULTIMA TENTATIVA!")
+
+def imprime_mensagem_perdedor(palavra_secreta):
+    print("*********************************")
+    print("VOCÊ FOI ENFORCADO!")
+    print("A palavra era:\n\t{}".format(palavra_secreta))
+    print("*********************************")
+
+def imprime_mensagem_vencedor():
+    print("*********************************")
+    print("PARABÉNS! VOCÊ ACERTOU!")
+    print("*********************************")
+
+
+
 if (__name__ == "__main__"):
     jogar()
