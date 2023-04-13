@@ -66,3 +66,12 @@ Repositório para guardar os exercícios que fiz durante os cursos de Python da 
    3. [Métricas estatísticas](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#3---m%C3%A9tricas-estat%C3%ADsticas)
    4. [Análise e visualização de dados](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#4---an%C3%A1lise-e-visualiza%C3%A7%C3%A3o-de-dados)
    5. [Comparação e escolha do modelo](https://github.com/GuiHalal/Learning_Python/blob/main/Machine%20Learning:%20Credit%20Scoring/Conte%C3%BAdo.md#5---compara%C3%A7%C3%A3o-e-escolha-do-modelo)
+
+8. ### [Estatística com Python: frequências e medidas]()
+   
+   1. Qual o seu tipo de dado?
+   2. Distribuição de frequência
+   3. Medidas de tendência central
+   4. Medidas separatrizes
+   5. Medidas de dispersão
+   6. Projeto final
